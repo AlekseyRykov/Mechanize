@@ -11,7 +11,7 @@ agent.cert_store = cert_store
 
 page = agent.get("https://www.gamerankings.com/browse.html?site=ps2&cat=0&year=0&numrev=3&sort=2&letter=&search=")
 
-playsation2 = []
+playstation2 = []
 
 next_page = true
 
@@ -28,7 +28,7 @@ while next_page
     forth_genre = a.search('.crumbs a[5]').text
     rank = a.search('span b').text
 
-    playsation2.push(
+    playstation2.push(
       title: title,
       genre: [main_genre, second_genre, third_genre, forth_genre],
       platform: platform,
@@ -42,9 +42,10 @@ while next_page
   else
     next_page = false
   end
+
 end
 
-puts JSON.pretty_generate(playsation2)
+puts JSON.pretty_generate(playstation2)
 
 
 
