@@ -1,5 +1,5 @@
 ## Goals
-1. PlayStation 2 list of games - https://www.gamerankings.com/browse.html?site=ps2&cat=0&year=0&numrev=3&sort=2&letter=&search= - 
+1. PlayStation 2 list of games (97 pages) - https://www.gamerankings.com/browse.html?site=ps2&cat=0&year=0&numrev=3&sort=2&letter=&search= - 
 2. The data we need:
     * ID
     * Platform
