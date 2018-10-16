@@ -70,13 +70,3 @@ end
 # convert the result to JSON
 # output can be redirected to a file, or piped into another program for further processing
 puts JSON.pretty_generate(playstation2)
-
-
-
-
-
-
-
-
-
-
