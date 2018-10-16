@@ -16,7 +16,7 @@
 * The Mechanize + nokogiri library
 * SQLite
 * JSON
-* Total: 4807 titels
+* Total: 4807 titles
 
 ## TODO
 * Export to https://morph.io/
