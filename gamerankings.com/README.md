@@ -17,6 +17,11 @@
 * SQLite
 * JSON
 
+## TODO
+* Export to https://morph.io/
+* Additional code for regular data updating in DB with sqlite or active record
+
+
 ## Glossary
 * grnks = gamerankings
 * cln = clean
