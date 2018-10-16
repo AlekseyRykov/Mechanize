@@ -1,6 +1,6 @@
 ## Goals
 1. PlayStation 2 list of games (97 pages) - https://www.gamerankings.com/browse.html?site=ps2&cat=0&year=0&numrev=3&sort=2&letter=&search= - 
-2. The data we need:
+2. The following information is needed from every page (50 games per page):
     * ID
     * Platform
     * Title
@@ -16,6 +16,7 @@
 * The Mechanize + nokogiri library
 * SQLite
 * JSON
+* Total: 4807 titels
 
 ## TODO
 * Export to https://morph.io/
