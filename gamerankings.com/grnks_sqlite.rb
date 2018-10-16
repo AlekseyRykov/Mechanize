@@ -1,7 +1,6 @@
 # add require statements
 require 'rubygems'
 require 'mechanize'
-require 'json'
 require 'sqlite3'
 
 # initialize db
