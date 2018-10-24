@@ -9,4 +9,4 @@ The Mechanize library is used for automating interaction with websites. Mechaniz
 Mechanize uses nokogiri to parse HTML. What does this mean for you? You can treat a mechanize page like an nokogiri object. After you have used Mechanize to navigate to the page that you need to scrape, then scrape it using nokogiri methods.
 
 ##
-_This is a training and not self-serving scraping project. Feel free to contact me with questions an suggestions._
+Here i will add own jobs based on mechanaize.
